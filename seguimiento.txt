@@ -1,0 +1,30 @@
+
+Fichero de seguimiento y anotaciones... :)
+
+
+Cosas por hacer:
+	- Mejorar la interfaz (es decir las disposicion de todos los widgets)
+	- Contemplar fallos al intentar ejecutar comandos con rutas no validas
+	- Persistir la configuracion de los mods agregados
+	- Agregar boton para eliminar mods
+	- Mejorar codigo xd
+
+
+Cosas solucionadas o hechas:
+	- Agregar integracion para la ejecucion de mods (Listo)
+	- Agregar una listbox para visualizar todos los mods cargados (Listo)
+
+
+Anotador tecnico:
+'''
+	Porcion de codigo útil:
+		engine = "D:/gzdoom/gzdoom"
+		iwad = "D:/gzdoom/IWAD/DOOM2.WAD"
+		pwads = ["D:/gzdoom/PWAD/bd64game_v2.5.pk3", "D:/gzdoom/PWAD/bd64maps_v2.5.pk3"]
+		comando = [engine, "-iwad", iwad, "-file"]
+		for i in pwads:
+			comando.append(i)
+
+		print(f"{comando}")
+		sp.run(comando)
+'''
