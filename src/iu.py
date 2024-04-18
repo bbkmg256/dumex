@@ -3,7 +3,7 @@
 
 # LIBS.
 import tkinter as tk
-from src import ctrl
+import ctrl
 
 
 # User Interfaces class

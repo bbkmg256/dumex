@@ -32,7 +32,7 @@ NOTA:
 
 
 # LIBS.
-from src import iu
+import iu
 
 
 # Main class
