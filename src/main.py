@@ -1,7 +1,7 @@
 #!/bin/env python3
 
 
-# Dumex win-ver (v0.1.0)
+# Dumex (v0.1.0)
 
 # Frontend para ejecutar Gzdoom con mods
 
