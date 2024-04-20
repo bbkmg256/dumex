@@ -48,7 +48,7 @@ def exe_all(engine, iwad):
 # Obtiene las rutas mediante un FileDialog.
 def get_path(e: fl.FilePickerResultEvent, val_tf):
 	if e.files:
-		print(f"Engine path: {e.files[0].path}")
+		print(f"Fichero '{e.files[0].name}' seleccionado: {e.files[0].path}")
 		val_tf.value = e.files[0].path
 		val_tf.update()
 	else: print(f"(!) No se seleccionó ningun fichero!\n")
