@@ -3,20 +3,23 @@ Fichero de seguimiento y anotaciones... :)
 
 
 Historial:
-	- (20/04/24) Se cambió de la librería tkinter al framework Flet.
+	- (20/04/24)
+		Se cambió de la librería tkinter al framework Flet.
+		Se cambio el codigo parcialmente (por motivo del framework).
 
 
 Cosas por hacer:
+	- Agregar una listbox para visualizar todos los mods cargados (Listo)
 	- Mejorar la interfaz (es decir las disposicion de todos los widgets)
 	- Contemplar fallos al intentar ejecutar comandos con rutas no validas
 	- Persistir la configuracion de los mods agregados
 	- Agregar boton para eliminar mods
+	- Agregar boton para limpiar todo
+	- Agregar integracion para la ejecucion de mods (Listo)
 	- Mejorar codigo xd
 
 
 Cosas solucionadas o hechas:
-	- Agregar integracion para la ejecucion de mods (Listo)
-	- Agregar una listbox para visualizar todos los mods cargados (Listo)
 
 
 Anotador tecnico:
