@@ -1,6 +1,6 @@
 #!/bin/env python3
 
-# Dumex (v0.2.0)
+# Dumex (v0.2.5)
 # Un front-end para GZDoom :)
 
 import flet as fl
