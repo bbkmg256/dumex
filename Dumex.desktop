@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=0.1
-Type=Application
-Name=Dumex
-Comment=Un Frontend para GZDoom
-Exec=python3 main.py
-Terminal=false
-StartupNotify=true

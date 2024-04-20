@@ -1,3 +1,2 @@
-
-tkinter #(En linux se instala desde el gestor de paquetes de la distro)
-configparser #(Se instala mediante pip)
+flet
+configparser
