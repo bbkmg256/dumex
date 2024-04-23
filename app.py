@@ -9,6 +9,6 @@ from modules import ui
 
 # Condición de ejecucion principal
 if __name__ == '__main__':
-	print(f"(!) Iniciando Dumex...")
+	print(f"(!) Iniciando Dumex...\n")
 	fl.app(ui.main_ui)
 	print(f"(!) Adiós :)\n")
