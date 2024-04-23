@@ -8,6 +8,10 @@ Historial:
 		Se cambio el codigo parcialmente (por motivo del framework).
 		Se logro ejecutar mods, pero no de la forma esperada, se ejecuta todo desde el dir elegido.
 
+	-(23/04/24)
+		Se modificó el guardado de la conf, ahora la ruta depende del S.O
+		Se agregó un checkbox para habilitar o deshabilitar el uso de mods
+
 
 Cosas por hacer:
 	- Agregar una listbox para visualizar todos los mods cargados.
