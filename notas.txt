@@ -11,6 +11,9 @@ Historial:
 	-(23/04/24)
 		Se modificó el guardado de la conf, ahora la ruta depende del S.O
 		Se agregó un checkbox para habilitar o deshabilitar el uso de mods
+	
+	-(28/04/24)
+		Mejoras en el aspecto del código (igual queda mucho por mejorar)
 
 
 Cosas por hacer:
